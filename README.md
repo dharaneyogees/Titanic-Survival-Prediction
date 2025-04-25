@@ -88,3 +88,8 @@ This project demonstrated how machine learning and data analysis can uncover mea
 Using a Random Forest Classifier, we built an effective model that predicted survival with good accuracy, while also gaining insights through visual exploration. The analysis reflected real-world priorities of the time, such as the “women and children first” policy and the privilege of higher-class passengers.
 
 Overall, this project showcased the power of combining data science with storytelling to understand and predict real-world outcomes.
+
+## Author
+This project was created by [Dharani M Y](dharanimai14@gmail.com).  
+Feel free to reach out for any questions or contributions.
+
