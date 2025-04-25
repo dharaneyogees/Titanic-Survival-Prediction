@@ -6,8 +6,6 @@ This project is built around the famous Titanic dataset to explore passenger dat
 
 The goal was to develop a predictive model that can determine whether a passenger survived the Titanic disaster based on features like age, gender, passenger class, fare, and port of embarkation. The project emphasizes data preprocessing, model development, and performance evaluation.
 
----
-
 ## 📊 Dataset Information
 
 The dataset contains the following key features:
@@ -18,8 +16,6 @@ The dataset contains the following key features:
 - `Fare` – Ticket price
 - `Embarked` – Port of Embarkation (C, Q, S)
 - `Survived` – Target variable (0 = No, 1 = Yes)
-
----
 
 ## 🧪 What I Did
 
