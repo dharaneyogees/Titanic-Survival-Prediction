@@ -55,7 +55,7 @@ A box plot visualizing fare by class revealed:
 
     The fare distribution increased sharply from 3rd to 1st class, emphasizing the economic divide onboard.
 💸 Wealth directly influenced not just travel experience, but also survival opportunities.
-🧾 5. High Fare Correlated with Higher Survival
+## 🧾 5. High Fare Correlated with Higher Survival
 
 A swarm plot of fare vs. survival showed that:
 
@@ -63,7 +63,7 @@ A swarm plot of fare vs. survival showed that:
 
     This reaffirms the idea that first-class passengers were prioritized during evacuation.
 🛟 Money, in this case, could buy a better chance at life.
-🚢 6. Embarkation Port Affected Survival Rates
+## 🚢 6. Embarkation Port Affected Survival Rates
 
 Stacked bar charts revealed that:
 
@@ -71,7 +71,7 @@ Stacked bar charts revealed that:
 
     Those from Queenstown (Q) had the lowest.
 🧳 This might be linked to socio-economic status and class distribution by boarding port.
-7. 🔍 Feature Correlations Support Observations
+## 7. 🔍 Feature Correlations Support Observations
 
 The correlation heatmap showed:
 
