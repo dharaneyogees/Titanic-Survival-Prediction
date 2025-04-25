@@ -30,6 +30,7 @@ The dataset contains the following key features:
 ## 🎯 1. Most Passengers Did Not Survive
 
 A pie chart of the overall survival rate revealed that only about 38% of passengers survived, while 62% perished in the tragedy.
+
 📊 This reflects the scale of the disaster, where more than half of the passengers lost their lives.
 ## 🎩 2. Class and Gender Significantly Influenced Survival
 
